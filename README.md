@@ -1,6 +1,6 @@
 #Link to the project
 
-This project was bootstrapped with [MARY AI](https://maryai.netlify.app/).
+### This project was bootstrapped with `[MARY AI](https://maryai.netlify.app/).`
 
 ## Run this project locally using
 
